@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\bin\Debug\Contenedor de dependencias.exe.config
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\obj\Debug\Contenedor de dependencias.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\bin\Debug\Contenedor de dependencias.exe
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\bin\Debug\Contenedor de dependencias.pdb
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\obj\Debug\Contenedor de dependencias.exe
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\obj\Debug\Contenedor de dependencias.pdb
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\bin\Debug\Contenedor_dependencias.exe.config

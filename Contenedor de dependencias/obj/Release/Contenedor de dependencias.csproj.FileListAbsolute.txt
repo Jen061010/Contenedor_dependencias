@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\bin\Release\Contenedor de dependencias.exe.config
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\bin\Release\Contenedor de dependencias.exe
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\bin\Release\Contenedor de dependencias.pdb
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\obj\Release\Contenedor de dependencias.exe
+C:\Users\admin\Desktop\curso asp.net\Contenedor de dependencias\Contenedor de dependencias\obj\Release\Contenedor de dependencias.pdb
